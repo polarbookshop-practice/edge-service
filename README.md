@@ -24,3 +24,4 @@ java -jar build/libs/edge-service-0.0.1-SNAPSHOT.jar
 ![img.png](assets/api-2.png)
 ![img.png](assets/api-3.png)
 ![img.png](assets/api-4.png)
+![img.png](assets/api-5.png)
